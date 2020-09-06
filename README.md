@@ -1,2 +1,2 @@
-# CEUBOS
+# CeubOS
 Repositório para projeto de SO 
