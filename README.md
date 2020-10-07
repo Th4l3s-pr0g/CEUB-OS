@@ -1,2 +1,2 @@
 # CEUB-OS
-Repositório para projeto de SO 
+Repositório para projeto do CEUB-OS, o sistema operacional do UniCEUB. 
